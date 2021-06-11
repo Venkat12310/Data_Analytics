@@ -11,3 +11,4 @@ print(x)
 print(y)
 import matplotlib.pyplot as plt
 plt.plot(x,y)
+print("Bye")
